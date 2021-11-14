@@ -7,6 +7,7 @@ Este repositorio almacena las prácticas realizadas durante el curso 2020/2021 p
 Las carpetas son las siguientes:
 
 - _CUDA_: incluye la entrega de pequeños ejercicios realizados en CUDA, así como también las entregas de la convolución de matrices en GPU mediante un bloque, múltiples bloques y memoria global/compartida (incluyendo en las carpetas _extra_ la convolución completa).
+- _Cloud_: informe y presentación del bloque _Compute y Contenedores_ en Azure.
 - _Scala_: ejercicios realizados en Scala y las entregas de la implementación del juego [Bejeweled](http://www.bejeweled.com/).
 
 ## Uso
